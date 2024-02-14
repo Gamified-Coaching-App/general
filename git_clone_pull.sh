@@ -2,8 +2,6 @@
 
 # Define the organization name
 ORG_NAME="Gamified-Coaching-App"
-# Define your personal access token
-ACCESS_TOKEN="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"
 
 # Function to clone or pull repositories
 clone_or_pull() {
